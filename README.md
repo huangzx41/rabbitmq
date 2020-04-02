@@ -1,4 +1,4 @@
-# xing
+# rabbitmq
 rabbitmq的一些例子 provider生产者  consumer消费者
 
 Direct Exchange 
